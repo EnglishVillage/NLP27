@@ -4,6 +4,8 @@
 import matplotlib.pylab as plt
 import numpy as np
 
+"函数y=log(e^x1+e^x2+e^x3+...)图像"
+
 if __name__ == '__main__':
 	fig=plt.figure()
 	ax=fig.add_subplot(111)
